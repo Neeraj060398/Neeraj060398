@@ -1,7 +1,7 @@
 I am a Data Engineer with experience in Azure, AWS, ETL/ELT, Spark
 
 4 × Azure Certified and 1 × AWS Certified
-I am interest in Data Engineering/Data Science/Analytics
+I am interested in Data Engineering/Data Science/Analytics
 
 <!--
 **Neeraj060398/Neeraj060398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
