@@ -1,4 +1,4 @@
-I am a Data Engineer with experience in Azure, AWS, ETL/ELT, Spark <br/>
+I am a Data Engineer having experience in Azure, AWS, ETL/ELT, Spark, SQL <br/>
 
 4 × Azure Certified, 1 × AWS Certified and 1 × Databricks Certified <br/>
 I am interested in Data Engineering/Data Science/Analytics <br/>
