@@ -4,7 +4,7 @@ Experienced Data Engineer skilled in building robust ETL pipelines and optimizin
 
 My skills include: <br/>
 • Programming Languages :- Python, PySpark, SQL <br/>
-• Cloud Platforms :- <br/>
+• Cloud Platforms :- 
  - Microsoft Azure: Azure Data Factory, Azure Databricks, Azure Storage, Azure Synapse Analytics, 
  Azure Event Hubs, Azure Logic Apps <br/>
  - Amazon Web Services: AWS Glue, Amazon S3, Amazon Athena <br/>
