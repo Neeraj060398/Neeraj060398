@@ -1,7 +1,6 @@
 Experienced Data Engineer skilled in building robust ETL pipelines and optimizing data processing. Proficient in Python, PySpark, and SQL, I specialize in leveraging cloud platforms, including Microsoft Azure, AWS, and Snowflake, to bring a dynamic approach to solving complex data challenges. <br/>
 
 4 × Azure Certified, 1 × AWS Certified and 1 × Databricks Certified <br/>
-I am interested in Data Engineering/Data Science/Analytics <br/>
 
 <!--
 **Neeraj060398/Neeraj060398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
