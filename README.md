@@ -1,6 +1,6 @@
 Experienced Data Engineer skilled in building robust ETL pipelines and optimizing data processing. Proficient in Python, PySpark, and SQL, I specialize in leveraging cloud platforms, including Microsoft Azure, AWS, and Snowflake, to bring a dynamic approach to solving complex data challenges. <br/>
 
-4 × Azure Certified, 1 × AWS Certified and 1 × Databricks Certified <br/>
+4 × Azure Certified, 1 × AWS Certified <br/>
 
 My skills include: <br/>
 • Programming Languages :- Python, PySpark, SQL <br/>
