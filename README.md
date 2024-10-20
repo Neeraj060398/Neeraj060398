@@ -7,10 +7,11 @@ My skills include: <br/>
 • Microsoft Azure: Azure Data Factory, Azure Databricks, Azure Storage, Azure Synapse Analytics, Azure Event Hubs, Azure Logic Apps <br/>
 • Amazon Web Services: AWS Glue, Amazon S3, Amazon Athena <br/>
 • Snowflake <br/>
-• SQL Databases :- Microsoft SQL Server, MySQL <br/>
-• Visualization Tools :- Microsoft Power BI <br/>
+• Visualization Tools :- Microsoft Power BI, Tableau <br/>
+• Orchestration and Streaming :- Airflow, Kafka <br/>
 • Big Data Frameworks & Concepts :- Apache Spark, Hadoop, Kafka, DBMS, ETL/ELT, Data 
  Warehousing <br/>
+• SQL Databases :- Microsoft SQL Server, MySQL <br/>
 • NoSQL Databases :- MongoDB, Apache Cassandra <br/>
 • Web Development :- HTML, CSS, JavaScript <br/>
 • Version Control & Documentation :- Git, Jira, Confluence <br/>
