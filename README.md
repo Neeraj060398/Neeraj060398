@@ -9,7 +9,7 @@ My skills include: <br/>
 • Snowflake <br/>
 • Visualization Tools :- Microsoft Power BI, Tableau <br/>
 • Orchestration and Streaming :- Airflow, Kafka <br/>
-• Big Data Frameworks & Concepts :- Apache Spark, Hadoop, Kafka, DBMS, ETL/ELT, Data 
+• Big Data Frameworks & Concepts :- Apache Spark, Hadoop, DBMS, ETL/ELT, Data 
  Warehousing <br/>
 • SQL Databases :- Microsoft SQL Server, MySQL <br/>
 • NoSQL Databases :- MongoDB, Apache Cassandra <br/>
